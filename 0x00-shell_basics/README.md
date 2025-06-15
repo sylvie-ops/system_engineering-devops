@@ -1,1 +1,1 @@
-Week 2: Shell—The Basics
+This is my first shell work for shell scripts
