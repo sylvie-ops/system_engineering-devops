@@ -1,1 +1,1 @@
-This is my first shell work for shell scripts
+Week 2: Shell—The Basics
