@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Display running processes whose command contains the word “bash”
+ps -ef | grep [b]ash
+

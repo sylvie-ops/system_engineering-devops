@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Stop every running instance of the 4‑to_infinity_and_beyond script without using kill/killall
+pkill -f 4-to_infinity_and_beyond
+

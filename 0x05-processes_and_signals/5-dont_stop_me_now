@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Kill every running instance of the 4‑to_infinity_and_beyond script
+pgrep -f 4-to_infinity_and_beyond | xargs -r kill
+
